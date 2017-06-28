@@ -1,5 +1,6 @@
-﻿var config = {
-server: ''
+var config = {
+	
+	server: 'http://sck.cal24.pl/serwis/'
 	
 };
 

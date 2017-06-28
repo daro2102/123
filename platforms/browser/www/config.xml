@@ -8,7 +8,7 @@
     </feature>
     <name>Serwis samochodowy</name>
     <description>Aplikacja do kontaktu z serwisem samochodowym</description>
-    <author email="d2ro2102@gmail.com" href="http://phonegap.com">PhoneGap Team</author>
+    <author email="support@phonegap.com" href="http://phonegap.com">PhoneGap Team</author>
     <icon src="icon.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
